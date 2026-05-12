@@ -1,6 +1,9 @@
-# Curso em Vídeo - Python
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-Exercícios e anotações do curso de Python do professor Gustavo Guanabara;
+# Curso em Vídeo - Python  
+![Curso](https://img.shields.io/badge/Curso%20de%20Python-10%25-blue?style=for-the-badge&logo=python)
+
+Exercícios e anotações do curso de Python do professor Gustavo Guanabara.
 
 ## Conteúdos aprendidos
 - Uso do `print()`
